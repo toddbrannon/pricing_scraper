@@ -1,2 +1,8 @@
 /node_modules
 node_modules
+cryptoPrices.js
+n95.js
+promise_test.js
+scraper.js
+send_sms.js
+server.js
